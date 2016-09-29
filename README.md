@@ -1,2 +1,2 @@
-# mobile
-Contains mobile projects and related resources.
+# crossplatform
+Contains crossplatform mobile projects and related resources.
